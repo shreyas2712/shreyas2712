@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shreyas2712
 - 👀 I’m interested in mathematics and economics with intersection in computation and data
-- 🌱 I’m currently learning julia, R and Econometrics
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 🌱 I’m currently learning Python & SQL
 - 📫 How to reach me shreyas97.nagesh@gmail.com
 
 <!---
