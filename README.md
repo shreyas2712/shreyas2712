@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreyas2712
+- 👋 Hi, I’m Shreyas
 - 👀 I’m interested in mathematics and economics with intersection in computation and data
 - 🌱 I’m currently learning Python & SQL
 - 📫 How to reach me shreyas97.nagesh@gmail.com
